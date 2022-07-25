@@ -1,0 +1,34 @@
+div{
+    margin:auto;
+}
+body{
+    background-image: url("static/pexels-pixabay-164634.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    opacity: 95%;
+}
+#main_card{
+    background-color: #a7bcb9;
+    color:black;
+    margin-top:1.2rem;
+    border-radius: 1.2rem;
+}
+.card-header{
+    background-color: #222831 !important;
+    color:white;
+}
+.card-body{
+    text-align: center;
+    margin:auto;
+}
+#submit{
+   background-color: #2a2438; 
+   color:white;
+   margin-top: 2rem;
+}
+form{
+    margin:auto;
+}
